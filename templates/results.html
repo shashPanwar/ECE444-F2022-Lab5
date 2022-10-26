@@ -25,8 +25,11 @@
       <p>{{render_field(form.top)}} <button type="button" class="btn btn-primary common-page-submit-btn" type="submit" value="Search">Search</button>
     </p></form>
     
-{% for table in tables %}
-            {{ table|safe }}
-{% endfor %}
+<div id="results-page-table-container"> 
+  {% for table in tables %}
+              {{ table|safe }}
+  {% endfor %}  
+</div> 
+
 </body>
 </html>

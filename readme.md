@@ -14,10 +14,10 @@ Created [common.css](/static/styles/common.css), [results.css](/static/styles/re
 ![](/Images/a_3.PNG)
 
 ### Activity 4
-
+![](/Images/a_4.PNG)
 
 ### Activity 5
-
+![](/Images/a_5.PNG)
 
 ### Activity 6
 
