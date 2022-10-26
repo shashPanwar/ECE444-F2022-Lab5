@@ -71,12 +71,27 @@
                     <p><a href='/course/{{c}}'>{{c}}</a></p> 
                 {% endfor %}
             </td>
+            
             <td class="tg-0pky" rowspan="3">
-                <p>Pre-Requisite for:</p>
-                {% for c in post %}
-                    <p><a href='/course/{{c[1]}}'>{{c[1]}}</a></p>
-                {% endfor %}
-            </td>
+              <p>Student Reviews:</p>
+                  <h3>Student Name: Abdul</h3>
+                  <p>I really enjoyed this course,<br>
+                    it was a fun experience with a lot of learning. <br>
+                    The course requires work however the skills<br> 
+                    learned are crucial within the industry. <br> </p>
+                  <small>Date: 2022 October 25</small>
+          </td>
+          <td class="tg-0pky" rowspan="3">
+            <p>Course Timings:</p>
+                <h6>Offered: In Person Synchronous</h6>
+                <p> Timings: <br>
+                    Labs: 3 hours, 1:00 pm to 4:00 pm Thursdays <br>
+                    Lecture 2 hours, 9:00 am to 11:00 am Mondays <br>
+                    Practical 1 hour, 5:00 pm to 6:00 pm Tuesdays <br>
+                </p>
+                <small>Not Offered next semester</small>
+        </td>
+          
             <td class="tg-0lax">
               <p>Smart Majors:</p>
               {% for c in majors %}
@@ -101,6 +116,10 @@
                 {% endfor %}
             </td>
           </tr>
+          <td class="tg-0pky" rowspan="3">
+            <h4>Student Rating:</h4>
+                <h6>Number of Students Rated: 203</h6>
+                <p>Total rating: 4.6/5.0</p>
         </tbody>
         </table>
 </body>
