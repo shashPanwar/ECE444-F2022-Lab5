@@ -8,12 +8,14 @@ h1, h3 {
     color: #00204E;
 }
 
-.common-page-heading-container {
+.common-page-heading-container{
     text-align: center;
     margin: 20px auto;
 }
 
-select.common-page-heading-container, input.common-page-heading-container {
+
+
+.common-page-form select, .common-page-form input {
     background-color: beige;
     border-radius: 5px;
     border-color: transparent;

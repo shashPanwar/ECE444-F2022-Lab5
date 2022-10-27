@@ -10,14 +10,10 @@ Repo cloned!
 ### Activity 2
 Created [common.css](/static/styles/common.css), [results.css](/static/styles/results.css), and [home.css](/static/styles/home.css). Imported css files to respective html files.
 
-### Activity 3
-![](/Images/a_3.PNG)
+### Activities 3-5
+![](home.PNG)
+![](results.PNG)
 
-### Activity 4
-![](/Images/a_4.PNG)
-
-### Activity 5
-![](/Images/a_5.PNG)
 
 ### Activity 6
 
