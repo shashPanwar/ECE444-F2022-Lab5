@@ -11,8 +11,8 @@ Repo cloned!
 Created [common.css](/static/styles/common.css), [results.css](/static/styles/results.css), and [home.css](/static/styles/home.css). Imported css files to respective html files.
 
 ### Activities 3-5
-![](home.PNG)
-![](results.PNG)
+![](/Images/home.PNG)
+![](/Images/results.PNG)
 
 
 ### Activity 6
